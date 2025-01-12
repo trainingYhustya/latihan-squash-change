@@ -8,5 +8,5 @@ latihan membuat pull request dan memilih squash and marge
 3. Siska
 4. Anto
 5. Yani  
-   Ambon
+6. Ambon
    
